@@ -10,13 +10,13 @@ This is the final project of Course 4810 in Columbia University
 
 Step 1. Estimate the input signal waveform and get recoverd signal by using the hall sensor
 
-<p align="left">
-  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/recover_signal.png" width="400" title="System">
+<p align="center">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/recover_signal.png" width="350" title="System">
 </p>
 
 Step 2. Compare the Fourier transform of the recovered signal and the input waveform
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_sin.png" width="200" title="System">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_square.png" width="200" title="System">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_triangle.png" width="200" title="System">
@@ -24,7 +24,7 @@ Step 2. Compare the Fourier transform of the recovered signal and the input wave
 
 Step 3.	Inverter the original voltage signal
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_sin.png" width="200" title="System">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_square.png" width="200" title="System">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_triangle.png" width="200" title="System">
@@ -33,7 +33,7 @@ Step 3.	Inverter the original voltage signal
                                                                                                                                              
 ## The Flow chart of the designed voltage inversion system
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" alt="system" width= 150">
+    <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" alt="system" width= 250">
 </p>
            
                                                                                                                                              
