@@ -1,9 +1,10 @@
 # DC_motor_voltage_Inversion
 This is the final project of Course 4810 in Columbia University
 
-## The designed voltage inversion system
-<p align="left">
+## The designed voltage inversion system and the flow chart
+<p align="center">
   <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/System.png" width="300" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" width="300" title="System">
 </p>
 
 ## How to inverse the DC motor voltage
@@ -20,8 +21,4 @@ Step 2. Compare the Fourier transform of the recovered signal and the input wave
 
 Step 3.	Inverter the original voltage signal
 
-## The Flow Chart of this system
 
-<p align="left">
-  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" width="300" title="System">
-</p>
