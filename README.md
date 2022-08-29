@@ -25,15 +25,15 @@ Step 2. Compare the Fourier transform of the recovered signal and the input wave
 Step 3.	Inverter the original voltage signal
 
 <p align="left">
-  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Invterted_sin.png" width="200" title="System">
-  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Invterted_square.png" width="200" title="System">
-  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Invterted_triangle.png" width="200" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_sin.png" width="200" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_square.png" width="200" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Inverted_triangle.png" width="200" title="System">
 </p>
                                                                                                                                              
                                                                                                                                              
 ## The Flow chart of the designed voltage inversion system
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" alt="system" width= 350">
+    <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" alt="system" width= 150">
 </p>
            
                                                                                                                                              
