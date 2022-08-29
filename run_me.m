@@ -1,3 +1,6 @@
+clear
+clc
+close all
 
 load data.mat;
 
