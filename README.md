@@ -6,7 +6,7 @@ This is the final project of Course 4810 in Columbia University
     <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/System.png" alt="system" width= 350">
 </p>
 
-## The Flow chart of the designed voltage inversion system
+## The Flow chart of the voltage inversion system
 <p align="center">
     <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/Flow_chart.png" alt="system" width= 250">
 </p>
