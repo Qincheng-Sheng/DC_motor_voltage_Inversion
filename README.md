@@ -17,7 +17,11 @@ Step 1. Estimate the input signal waveform and get recoverd signal by using the 
 
 Step 2. Compare the Fourier transform of the recovered signal and the input waveform
 
-
+<p align="left">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_sin.png" width="400" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_square.png" width="400" title="System">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/FFT_triangle.png" width="400" title="System">
+</p>
 
 Step 3.	Inverter the original voltage signal
 
