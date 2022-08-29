@@ -1,3 +1,6 @@
+clear
+clc
+close all
 
 load data.mat;
 
@@ -24,7 +27,7 @@ for i=1:length(detect)-1
 end
 interval2=[];
 for i=1:(length(interval+1)-1)/2
-    interval2(i)=interval(2*i-1);
+    interval2(i)=interval(2*i-1); 
 end
 realsin=sin(0.3*sin_x)+172;
 realsinplot = (realsin-172)*4.5+4.5;
