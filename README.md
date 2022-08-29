@@ -8,8 +8,7 @@ This is the final project of Course 4810 in Columbia University
 
 Step 1. 
 <p align="center">
-  <img src="[your_relative_path_her](https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/System.png)e" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/System.png)" width="350" alt="accessibility text">
+  <img src="https://github.com/Qincheng-Sheng/DC_motor_voltage_Inversion/blob/main/Picture/System.png" width="350" title="System">
 </p>
 
 Step 2.
